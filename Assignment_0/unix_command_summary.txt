@@ -1,0 +1,20 @@
+ls - Lists files.
+cd - Changes directory.
+vim - Edits buffers.
+grep - Searches buffers.
+tail - Shows end of file.
+head - Shows beginning of file.
+ps - shows processes
+mknod - Creates special files.
+ls - Creates links.
+rm - Removes files.
+ipython - Launches ipython.
+echo - Echos.
+find - Finds files.
+weechat - Opens IRC.
+systemctl - Controls system deamons.
+journalctl - Greps over binary logs created by systemd.
+make - Runs the Makefile.
+docker - Runs containers.
+curl - Fetches remote files.
+git - It's git.
