@@ -56,7 +56,7 @@ def gaussian_elimination(A_matrix, u_vector):
             # Fill the lower with 0s
             A_matrix[i][k] = 0
 
-    print("Minimizes to:", A_matrix, u_vector)
+    # print("Minimizes to:", A_matrix, u_vector)
 
     # Back subtitute.
     for i in range(len(A_matrix)-1, -1, -1):
